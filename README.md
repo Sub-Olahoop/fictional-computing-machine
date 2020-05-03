@@ -20,3 +20,5 @@ Kirim Pesan halaman
 📲 WA : 0857-5662-9725
 
 kami siap membantu Bisnis Anda
+
+![Docker Image CI](https://github.com/Sub-Olahoop/fictional-computing-machine/workflows/Docker%20Image%20CI/badge.svg)
